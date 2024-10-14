@@ -1,0 +1,45 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "First Post",
+        "author": "John Doe",
+        "content": "This is the content of the first post.",
+        "date": "2024-01-01",
+        "caption": "A deep dive into web development. Learn about the basics of HTML, CSS, and JavaScript. This post will guide you through creating your first webpage."
+      },
+      {
+        "id": 2,
+        "title": "Second Post",
+        "author": "Jane Smith",
+        "content": "Here is some more content for the second post.",
+        "date": "2024-01-02",
+        "caption": "Explore CSS layouts in depth. From Flexbox to Grid, we cover the techniques for building responsive websites. Perfect for front-end developers."
+      },
+      {
+        "id": 3,
+        "title": "Third Post",
+        "author": "Mike Brown",
+        "content": "This is the third post's content.",
+        "date": "2024-01-03",
+        "caption": "Master JavaScript fundamentals with hands-on examples. We break down key concepts like closures, promises, and async/await for developers."
+      },
+      {
+        "id": 4,
+        "title": "Fourth Post",
+        "author": "Emily White",
+        "content": "Content of the fourth post goes here.",
+        "date": "2024-01-04",
+        "caption": "Get started with React.js in this comprehensive guide. From components to hooks, we cover the core concepts of modern front-end development."
+      },
+      {
+        "id": 5,
+        "title": "Fifth Post",
+        "author": "David Lee",
+        "content": "The final post content.",
+        "date": "2024-01-05",
+        "caption": "Building scalable applications with Next.js. Learn server-side rendering, API routes, and static site generation in this step-by-step guide."
+      }
+    ]
+  }
+  
