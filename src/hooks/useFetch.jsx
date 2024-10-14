@@ -17,8 +17,10 @@ const useFetch = (endPoint) => {
             setIsError(true)
             setLoading(false)
         }
-        setData(response)
-        setLoading(false)
+        setData(response)  
+        setTimeout(() => {
+            setLoading(false)
+        }, 1500)
 
     }
 

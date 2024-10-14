@@ -1,3 +1,10 @@
+.post {
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 350px;
+    border:2px solid darkslategray;
+    border-radius: 0.25rem;
+}
 .skeleton {
     background-color: rgb(199, 199, 199);
     margin: 0.75rem 0;
@@ -11,11 +18,23 @@
     height: 1.25rem;
 }
 .skeleton.width-300 {
-    max-width: 300px;
+    /* max-width: 300px; */
+    width: 100%;
 }
 
 .skeleton.width-50 {
     width: 50%;
+}
+.w-100{
+    width: 100%;
+}
+.w-50{
+    width: 50%;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 /* animation */
 @keyframes pulse {
